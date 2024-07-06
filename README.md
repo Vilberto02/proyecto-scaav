@@ -29,4 +29,3 @@ Prototipo de sistema de Monitoreo de las condiciones de almacenamiento de alimen
 - Visual Studio Code (VSC)
 - Extensión PlatformIO de VSC
 - Arduino IDE
-- Python
