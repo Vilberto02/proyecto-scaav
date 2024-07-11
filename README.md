@@ -1,5 +1,6 @@
 # Proyecto SCAAV
-Prototipo de sistema de Monitoreo de las condiciones de almacenamiento de alimentos de origen vegetal.
+
+Prototipo de un sistema de Monitoreo de las Condiciones de Almacenamiento de Alimentos Vegetales.
 
 ## Integrantes
 
@@ -13,8 +14,8 @@ Prototipo de sistema de Monitoreo de las condiciones de almacenamiento de alimen
 - Reyes Fabian, Jhan Brayan Zamir
 
 ## Componentes utilizados
+
 - ESP32
-- Display LCD 16x2 con I2C
 - Sensor de alcohol MQ-3
 - Sensor de gas MQ-135
 - Sensor de intensidad luminosa BH1750
@@ -24,8 +25,13 @@ Prototipo de sistema de Monitoreo de las condiciones de almacenamiento de alimen
 - ESP32 CAM
 
 ## Plataformas utilizadas
+
 - Google Sheets
 - Google Scripts
 - Visual Studio Code (VSC)
 - Extensión PlatformIO de VSC
 - Arduino IDE
+
+## Enlace al historial de datos en Google Sheet
+
+[ESP32_Google_Spreadsheet](https://docs.google.com/spreadsheets/d/1GrhT4nhDika3C3tUYjRLH7i9k4-7DO5SAbJyfg5mVc4/edit?usp=sharing)
