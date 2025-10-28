@@ -1,4 +1,4 @@
-# Proyecto SCAAV
+# SCAAV
 
 Prototipo de un sistema de Monitoreo de las Condiciones de Almacenamiento de Alimentos Vegetales.
 Este proyecto fue hecho por un grupo de estudiantes de la UNMSM en el curso de Arquitectura de Computadoras.
